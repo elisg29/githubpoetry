@@ -2,12 +2,6 @@ body {
   background-color: white;
 }
 
-img {
-  max-width: 50%;
-  height: auto;
-  border radius: 8px;
-}
-
 h1 {
   font-family: "Times New Roman", Times, serif;
 
