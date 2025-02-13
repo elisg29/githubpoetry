@@ -6,6 +6,8 @@ body {
 h1 {
   font-family: "Times New Roman", Times, serif;
 
-p {
-  p.solid {border-style: solid;}
+img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
 }
